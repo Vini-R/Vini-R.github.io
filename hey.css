@@ -7,21 +7,21 @@
 }
 
 .kard-para {
-    font-size: 12px;
+    font-size: 30px;
     color: #9aa5b1;
 }
 
 .heading-font {
-    font-size: 15px;
+    font-size: 50px;
     font-weight: bold;
     color: #323f4b;
 }
 
 .photo-margin {
-    margin: 5px;
+    margin: 20px;
 }
 
 .video-margin {
-    margin: 5px;
-    border-radius: 10px;
+    margin: 15px;
+    border-radius: 20px;
 }
