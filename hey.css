@@ -1,32 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
-.bg-color {
-    background-color: white;
-    padding: 20px;
-    font-family: 'Roboto';
+.deliver-image {
+    width: 100px;
+    height: 100px;
 }
 
-.kard-para {
-    font-size: 40px;
-    color: #9aa5b1;
-}
-
-.heading-font {
-    font-size: 70px;
-    font-weight: bold;
+.deliver-heading {
+    font-size: 25px;
     color: #323f4b;
 }
 
-.photo-margin {
-    margin: 30px;
-    height: 100px;
-    width: 100px;
-}
-
-.video-margin {
-    margin: 30px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
+.deliver-para {
+    font-size: 15px;
+    color: #7b8794;
 }
